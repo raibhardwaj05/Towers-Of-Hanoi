@@ -1,4 +1,3 @@
-# Towers Of Hanoi Tactics
 # Towers Of Hanoi Game 🏰
 
 An interactive Python implementation of the classic Towers of Hanoi puzzle — featuring a graphical UI (Tkinter), animated moves (Turtle), and persistent storage using MySQL.
