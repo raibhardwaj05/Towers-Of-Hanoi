@@ -4,17 +4,7 @@ An interactive Python implementation of the classic Towers of Hanoi puzzle — f
 
 ## Table of Contents
 - [About](#about)  
-- [Features](#features)  
-- [Architecture & Design](#architecture--design)  
-- [Demo / Screenshots](#demo--screenshots)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-  - [Running the Game](#running-the-game)  
-- [How It Works](#how-it-works)  
-- [Project Structure](#project-structure)  
-- [Technologies Used](#technologies-used)  
-- [Acknowledgements](#acknowledgements)
+- [Features](#features) 
 
 ---
 
