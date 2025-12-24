@@ -21,13 +21,13 @@ This project is ideal for learning algorithmic thinking, GUI programming, databa
 ---
 
 ## Features  
-- Select the number of disks (difficulty) & play manually or use auto-solve mode  
+- Selects the number of discs based on the previous level (discs = level + 1) 
 - Animated disk moves (Turtle) showing each step  
-- Move counter and timer display  
+- Move counter  
 - Prevents invalid moves (e.g., placing larger disk on smaller)  
 - Player profile creation and login  
 - Persistent storage of game sessions in MySQL; save/load feature  
-- Leaderboard display of best times/moves  
+- Leaderboard display of best score  
 - Modular codebase – easy to extend (e.g., theme support, more rods)  
 
 ---
